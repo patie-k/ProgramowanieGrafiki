@@ -1,3 +1,3 @@
-W folderze BUILDS znajduj¹ siê wykonywalne pliki .jar 
-dla ró¿nych wersji systemów operacyjnych, wygenerowane 
-na podstawie plików .java w g³ównym folderze zadania.
+W folderze BUILDS znajdujÄ… siÄ™ wykonywalne pliki .jar 
+dla rÃ³Å¼nych wersji systemÃ³w operacyjnych, wygenerowane 
+na podstawie plikÃ³w .java w gÅ‚Ã³wnym folderze zadania.
